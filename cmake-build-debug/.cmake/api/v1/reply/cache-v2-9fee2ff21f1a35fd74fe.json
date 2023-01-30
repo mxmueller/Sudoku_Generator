@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/MUMAXI2/CLionProjects/sudoku_generator/cmake-build-debug"
+			"value" : "c:/Users/MUMAXI2/CLionProjects/maximilian_mueller_tin22_sudoku/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/MUMAXI2/CLionProjects/sudoku_generator/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/MUMAXI2/CLionProjects/maximilian_mueller_tin22_sudoku/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/MUMAXI2/CLionProjects/sudoku_generator"
+			"value" : "C:/Users/MUMAXI2/CLionProjects/maximilian_mueller_tin22_sudoku"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/sudoku_generator"
+			"value" : "C:/Program Files (x86)/maximilian_mueller_tin22_sudoku"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "sudoku_generator"
+			"value" : "maximilian_mueller_tin22_sudoku"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1122,7 +1122,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "sudoku_generator_BINARY_DIR",
+			"name" : "maximilian_mueller_tin22_sudoku_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1131,10 +1131,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/MUMAXI2/CLionProjects/sudoku_generator/cmake-build-debug"
+			"value" : "C:/Users/MUMAXI2/CLionProjects/maximilian_mueller_tin22_sudoku/cmake-build-debug"
 		},
 		{
-			"name" : "sudoku_generator_IS_TOP_LEVEL",
+			"name" : "maximilian_mueller_tin22_sudoku_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1146,7 +1146,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "sudoku_generator_SOURCE_DIR",
+			"name" : "maximilian_mueller_tin22_sudoku_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1155,7 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/MUMAXI2/CLionProjects/sudoku_generator"
+			"value" : "C:/Users/MUMAXI2/CLionProjects/maximilian_mueller_tin22_sudoku"
 		}
 	],
 	"kind" : "cache",

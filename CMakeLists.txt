@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.24)
-project(sudoku_generator C)
+project(maximilian_mueller_tin22_sudoku C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(sudoku_generator main.c)
+add_executable(maximilian_mueller_tin22_sudoku main.c)

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "sudoku_generator.exe"
+			"path" : "maximilian_mueller_tin22_sudoku.exe"
 		},
 		{
-			"path" : "sudoku_generator.pdb"
+			"path" : "maximilian_mueller_tin22_sudoku.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "sudoku_generator::@6890427a1f51a3e7e1df",
+	"id" : "maximilian_mueller_tin22_sudoku::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "sudoku_generator",
-	"nameOnDisk" : "sudoku_generator.exe",
+	"name" : "maximilian_mueller_tin22_sudoku",
+	"nameOnDisk" : "maximilian_mueller_tin22_sudoku.exe",
 	"paths" : 
 	{
 		"build" : ".",
