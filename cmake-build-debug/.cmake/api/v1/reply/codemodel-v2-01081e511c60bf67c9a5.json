@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/MUMAXI2/CLionProjects/maximilian_mueller_tin22_sudoku/cmake-build-debug",
-		"source" : "C:/Users/MUMAXI2/CLionProjects/maximilian_mueller_tin22_sudoku"
+		"build" : "C:/Git/Sudoku_Generator/cmake-build-debug",
+		"source" : "C:/Git/Sudoku_Generator"
 	},
 	"version" : 
 	{
