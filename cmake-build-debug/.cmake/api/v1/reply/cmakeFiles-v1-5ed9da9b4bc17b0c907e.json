@@ -429,8 +429,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/MUMAXI2/CLionProjects/BMI/cmake-build-debug",
-		"source" : "C:/Users/MUMAXI2/CLionProjects/BMI"
+		"build" : "C:/Git/Sudoku_Generator/cmake-build-debug",
+		"source" : "C:/Git/Sudoku_Generator"
 	},
 	"version" : 
 	{
