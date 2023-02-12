@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="main.c - Working Cygwin :)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Sudoku_Generator" TARGET_NAME="main.c - Working Cygwin :)" CONFIG_NAME="main.c - Working Cygwin :)">
+    <option name="sourceFile" value="C:\Git\Sudoku_Generator\main.c" />
+    <option name="toolchainName" value="Working Cygwin :)" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>

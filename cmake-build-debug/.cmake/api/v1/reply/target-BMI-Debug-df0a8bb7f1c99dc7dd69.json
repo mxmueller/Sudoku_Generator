@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "maximilian_mueller_tin22_sudoku.exe"
+			"path" : "BMI.exe"
 		},
 		{
-			"path" : "maximilian_mueller_tin22_sudoku.pdb"
+			"path" : "BMI.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -55,12 +55,11 @@
 			},
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
-	"id" : "maximilian_mueller_tin22_sudoku::@6890427a1f51a3e7e1df",
+	"id" : "BMI::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -80,8 +79,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "maximilian_mueller_tin22_sudoku",
-	"nameOnDisk" : "maximilian_mueller_tin22_sudoku.exe",
+	"name" : "BMI",
+	"nameOnDisk" : "BMI.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -93,8 +92,7 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
@@ -104,12 +102,6 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "main.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Resources/messages.c",
 			"sourceGroupIndex" : 0
 		}
 	],

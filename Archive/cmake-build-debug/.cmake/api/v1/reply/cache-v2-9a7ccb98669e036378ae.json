@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/maximilian_mueller_tin22_sudoku"
+			"value" : "C:/Program Files (x86)/Sudoku_Generator"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "maximilian_mueller_tin22_sudoku"
+			"value" : "Sudoku_Generator"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1110,19 +1110,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
-		},
-		{
-			"name" : "maximilian_mueller_tin22_sudoku_BINARY_DIR",
+			"name" : "Sudoku_Generator_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1134,7 +1122,7 @@
 			"value" : "C:/Git/Sudoku_Generator/cmake-build-debug"
 		},
 		{
-			"name" : "maximilian_mueller_tin22_sudoku_IS_TOP_LEVEL",
+			"name" : "Sudoku_Generator_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1146,7 +1134,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "maximilian_mueller_tin22_sudoku_SOURCE_DIR",
+			"name" : "Sudoku_Generator_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1156,6 +1144,18 @@
 			],
 			"type" : "STATIC",
 			"value" : "C:/Git/Sudoku_Generator"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",
